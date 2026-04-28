@@ -7,7 +7,7 @@ It includes a Main Office and Branch Office connected through secure routing and
 
 The design focuses on VLAN configuration, inter-VLAN routing, DHCP, DNS, static routing, and network security.
 
----
+
 
 ## 🏢 Network Design
 
@@ -26,7 +26,7 @@ Each VLAN is logically separated for better security, scalability, and traffic m
 - Connected via router-to-router link  
 - Communication enabled using static routing  
 
----
+
 
 ## ⚙️ Technologies Used
 
@@ -40,7 +40,7 @@ Each VLAN is logically separated for better security, scalability, and traffic m
 - Web Server (HTTP Service)  
 - Network Security Configuration  
 
----
+
 
 ## 🔐 Security Features
 
@@ -57,7 +57,7 @@ Each VLAN is logically separated for better security, scalability, and traffic m
 
 ⚠️ These credentials are strictly for **academic and simulation purposes only** in Cisco Packet Tracer.
 
----
+
 
 ## 🌍 Key Functionalities
 
@@ -69,7 +69,6 @@ Each VLAN is logically separated for better security, scalability, and traffic m
 ✔ Branch ↔ Main Office connectivity using static routing  
 ✔ Secure network access with authentication  
 
----
 
 ## 📊 Project Files
 
@@ -83,7 +82,7 @@ Each VLAN is logically separated for better security, scalability, and traffic m
   - Web server testing  
 - Project report (if included)
 
----
+
 
 ## 💡 Learning Outcome
 
@@ -95,7 +94,7 @@ This project helped in understanding:
 - Network security implementation  
 - Real-world multi-site connectivity concepts  
 
----
+
 
 ## 📁 How to Use
 
@@ -109,12 +108,7 @@ This project helped in understanding:
    - DNS web access  
    - Branch connectivity  
 
----
 
-## 🚀 Status
-✔ Completed and functional  
-
----
 
 ## 🔗 Author
 Academic Networking Project (Student Submission)
